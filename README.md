@@ -7,7 +7,13 @@
 
 <br>
 
-#### Languages and Tools:
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steliosgrs&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steliosgrs) -->
+
+
+<!-- #### Languages and Tools:
 <img align="left" alt="python" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 <img align="left" alt="MySQL" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
@@ -18,6 +24,6 @@
 <br><br><br><br>
 
 #### Ligraries:
-<img alt="Tensorflow" width="106px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
+<img alt="Tensorflow" width="106px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" /> -->
 
 <!-- <img align="left" alt="Numpy" width="106px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /> -->
