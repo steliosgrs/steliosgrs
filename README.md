@@ -23,7 +23,7 @@
 
 <br><br><br><br>
 
-#### Ligraries:
+#### Libraries:
 <img alt="Tensorflow" width="106px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="margin-top:-35px;" />
 
 <!-- <img align="left" alt="Numpy" width="106px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /> -->
