@@ -14,6 +14,7 @@
 
 #### Languages and Tools:
 <img align="left" alt="python" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" /> 
+
 <img align="left" alt="MySQL" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  style="padding-right:10px;" />
 
 <img align="left" alt="Git" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -33,19 +34,20 @@
 
 <img align="center" alt="Flask" width="106px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" style="margin-right:15px;"/> 
 
-<!-- <img align="center" alt="Tensorflow" width="106px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="margin-top:-35px;" /> -->
 <br>
-
-
-<!-- <a href="https://github.com/steliosgrs/convoychat"> -->
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steliosgrs&theme=dracula&" />
-<!-- </a> -->
+
 <br>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steliosgrs&theme=dracula&layout=compact)
-](https://github.com/steliosgrs/github-readme-stats) -->
 
 ![Stelios's GitHub stats](https://github-readme-stats.vercel.app/api?username=steliosgrs&count_private=true&theme=dracula&show_icons=true)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steliosgrs&theme=dracula&layout=compact)
+](https://github.com/steliosgrs/github-readme-stats) 
+
+
+<img align="center" alt="Tensorflow" width="106px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="margin-top:-35px;" /> -->
 
 
 
