@@ -7,6 +7,7 @@
 - 📚 I’m currently learning about Machine Learning & Deep Learning
 - ⭐ I'm open to new projects ideas and collaborations.
 <br>
+
 ---
 
 #### Languages and Tools:
