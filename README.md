@@ -31,8 +31,8 @@
 <img align="left" alt="Flask" width="106px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" style="margin-right:15px;"/> 
 
 <br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steliosgrs&theme=dracula&" />
+<br> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steliosgrs&theme=dracula&" />
 
 <br>
 
