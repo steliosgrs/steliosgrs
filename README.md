@@ -7,10 +7,6 @@
 - 📚 I’m currently learning about Machine Learning & Deep Learning
 - ⭐ I'm open to new projects ideas and collaborations.
 <br>
- <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steliosgrs&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steliosgrs)  -->
-
 
 #### Languages and Tools:
 <img align="left" alt="python" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" /> 
