@@ -22,13 +22,13 @@
 
 #### Libraries:
 
-<img align="center" alt="Tensorflow" width="106px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="margin-right:15px;" />
+<img align="left" alt="Tensorflow" width="106px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="margin-right:15px;" />
           
-<img align="center" alt="Numpy" width="106px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" style="margin-right:5px;"/> 
+<img align="left" alt="Numpy" width="106px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" style="margin-right:5px;"/> 
 
-<img align="center" alt="OpevCV" width="66px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" style="margin-right:15px;"/>
+<img align="left" alt="OpevCV" width="66px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" style="margin-right:15px;"/>
 
-<img align="center" alt="Flask" width="106px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" style="margin-right:15px;"/> 
+<img align="left" alt="Flask" width="106px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" style="margin-right:15px;"/> 
 
 <br>
 <br>
