@@ -1,11 +1,11 @@
-### 👋 Hi there, my name is Stelios Georgaras and i am a student in University of West Attica
+### 👋 Hi there, my name is Stelios and I am a Junior ML Engineer
 
 ## 
 [![](https://img.shields.io/badge/-Stelios%20Georgaras-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stelios-georgaras//)](https://www.linkedin.com/in/stelios-georgaras/)
 
-- 📃 I’m currently working on a web app for [Emotion Recognition](https://github.com/steliosgrs/emotion-recognition-streamlit-app)
-- 📚 I’m currently learning about Machine Learning & Deep Learning
-- ⭐ I'm open to new projects ideas and collaborations.
+- 📃 I’m working on [Libra AI](http://www.libramli.ai/)
+- 📚 I’m currently learning about ML & DL focus on Computer Vision tasks
+- ⭐ We are open to new projects ideas and collaborators **Join us Here** [Codacity](https://github.com/Cognitus-Automata)
 <br>
 
 ---
