@@ -36,11 +36,11 @@
 
 ---
 
-<br><br>
+<!-- <br><br> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steliosgrs&theme=dracula)](https://github.com/steliosgrs?tab=repositories)  -->
 
-<br><br>
+<!-- <br><br> -->
 
 <!-- ![Stelios's GitHub stats](https://github-readme-stats.vercel.app/api?username=steliosgrs&count_private=true&theme=dracula&show_icons=true) -->
 
